@@ -1,4 +1,4 @@
-###Python Coffee Machine Program using OOP(Object Oriented Programming)
+###  Python Coffee Machine Program using OOP(Object Oriented Programming)
 To check water , Milk and Coffee levels and see how much money you made in coffee machine , run Report:
 ```
 Choose drink ? latte/espresso/cappuccino/ : report
